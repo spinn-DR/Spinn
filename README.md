@@ -24,7 +24,7 @@ A pre-mine is necessary in order for the built-in spinning to work properly. We 
 - GitHub release for Open-Source review (coming soon!)
 - Finish Website 
 - Bitcoin UTXO Snapshot 03 October 2022
-- Launch 04 December 2022!
+- Launch 05 December 2022!
 
 
 
