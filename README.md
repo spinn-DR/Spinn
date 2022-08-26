@@ -16,6 +16,8 @@ There will be 1 million pre-mined coins prior to launch.
 10% will be held as a developer fund;
 the other 90% will be available for the Airdrop.
 
+Visit our [Spinn-Airdrop](https://github.com/spinn-DR/spinn-airdrop) repository for more details on how to claim the airdrop.
+
 A pre-mine is necessary in order for the built-in spinning to work properly. We need users who already have coins prior to launch in order to provide liquidity needed for spinning.
 
 ## Road Map
