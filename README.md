@@ -5,27 +5,33 @@
 
 Spinn is an open source community-driven cryptocurrency forked from bitcoin that focuses on three main aspects:
 
-(1) Privacy: Through the use of mixers built-in with each node allowing privacy that is also resistant to inflation bugs.
+(1) Privacy: Through the use of mixers built-in with each node allowing privacy that is __also resistant to inflation bugs__ (sorry Monero).
 
 (2) Decentralization: Proof of Work SHA256 (was going to go SHA3 but there's more SHA256 miners)
 
 (3) Node Incentives: Aside from typical mining incentives, node runners also have an incentive to spin (mix), and every user the incentive to remain anonymous without having to enroll in any mixing service as it's automatically included in the protocol.
 
 ## Pre-mine Disclosure
+We get it pre-mines can look bad, but it's 100% necessary for the network to operate and 90% of the premine will be airdropped to users. Let us explain.
+
 There will be 1 million pre-mined coins prior to launch.
 10% will be held as a developer fund;
 the other 90% will be available for the Airdrop.
 
 Visit our [Spinn-Airdrop](https://github.com/spinn-DR/spinn-airdrop) repository for more details on how to claim the airdrop.
 
-A pre-mine is necessary in order for the built-in spinning to work properly. We need users who already have coins prior to launch in order to provide liquidity needed for spinning.
+A pre-mine is necessary in order for the built-in spinning to work properly. If the network launched and there were no users with balance for mixing liquidity, users would be unable to spend. This is why it is paramount for users to already have coins prior to launch in order to provide liquidity needed for spinning.
+
+## How to be a spinning/mixing provider?
+
+Anyone running a Spin node, (including pruned nodes) can opt-in to mix transactions and collect fees. This provides an incentive to node operators and helps support mixing liquidity in a decentralized manner. 
+
+Be sure to visit our bitcointalk announcement page for details on the Initial Coin Distribution. Depending when you claim you may be elgibile for redeeming at a higher rate.
 
 ## Road Map
-- GitHub release for Open-Source review (coming soon!)
-- Finish Website 
+- GitHub release  (coming soon!) 
 - Bitcoin UTXO Snapshot 03 October 2022
 - Launch 05 December 2022!
-
 
 
 ## Experimental Risks
