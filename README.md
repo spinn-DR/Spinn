@@ -7,7 +7,7 @@ Spinn is an open source community-driven cryptocurrency forked from bitcoin that
 
 (1) Privacy: Through the use of mixers built-in with each node allowing privacy that is __also resistant to inflation bugs__ (sorry Monero).
 
-(2) Decentralization: Proof of Work SHA256 (was going to go SHA3 but there's more SHA256 miners)
+(2) Decentralization: Proof of Work SHA256 
 
 (3) Node Incentives: Aside from typical mining incentives, node runners also have an incentive to spin (mix), and every user the incentive to remain anonymous without having to enroll in any mixing service as it's automatically included in the protocol.
 
