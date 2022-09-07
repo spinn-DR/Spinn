@@ -30,7 +30,7 @@ Be sure to visit our bitcointalk announcement page for details on the Initial Co
 
 ## Road Map
 - GitHub release  (coming soon!) 
-- Bitcoin UTXO Snapshot 03 October 2022
+- Bitcoin UTXO Snapshot 05 October 2022
 - Launch 05 December 2022!
 
 
